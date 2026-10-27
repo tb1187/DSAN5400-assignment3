@@ -8,7 +8,7 @@ setuptools.setup(
     version='0.0.1', 
     author='Tyler Blue', 
     author_email='tb1187@georgetown.edu', 
-    description='brief description', 
+    description='Multinomial Naive Bayes classifier with Lidstone smoothing', 
     long_description=long_description, 
     long_description_content_type='text/markdown', 
     packages=setuptools.find_packages(), 
