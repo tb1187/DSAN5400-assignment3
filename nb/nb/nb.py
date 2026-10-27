@@ -7,7 +7,7 @@ class NaiveBayes:
         self.alpha = alpha
         self.vocabulary = None
         self.classes = None
-        self.prior = None
+        self.priors = None
         self.likelihoods = None
 
     def _tokenize(self, text):

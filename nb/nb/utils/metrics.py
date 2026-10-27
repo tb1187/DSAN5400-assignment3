@@ -2,7 +2,7 @@ from sklearn import metrics
 
 def get_metrics(true, preds):
     """
-    Takes gold labels and predictions to compute performance metrics
+    Takes true labels and predictions to compute performance metrics
     :param true: array-like object
     :param preds: array-like object
     :return: a tuple of various performance metrics

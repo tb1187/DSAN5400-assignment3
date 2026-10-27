@@ -1,6 +1,5 @@
 name: dsan5400
 channels:
-  - apple
   - conda-forge
 dependencies:
   - datasets
